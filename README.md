@@ -21,10 +21,14 @@ mediapipeで取得したデータをvrchatでフルトラするのに使えな�
 
 ## 姿勢推定結果の表示 
 ３次元空間で姿勢推定結果を確認することができます。
+
 ```python scatter_plot```
-![](/images/line.png)
+
+![](/images/scatter.png)
 
 ## 姿勢推定結果の表示2 
 姿勢推定結果をリアルタイムにグラフで確認することができます。
+
 ```python line_plot.py```
-![](/images/scatter.png)
+
+![](/images/line.png)
