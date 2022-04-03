@@ -1,0 +1,8 @@
+
+mediapipe
+rich
+argparse
+numpy 
+opencv-python
+python-osc
+scipy
